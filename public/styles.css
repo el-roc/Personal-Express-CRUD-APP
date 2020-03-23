@@ -1,0 +1,16 @@
+body{
+  background: rgb(95, 78, 206);
+  background-image: url(supersm.gif);
+  background-size: cover;
+  text-align: center;
+  color: rgb(161, 16, 16);
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+h3{
+  margin-top: 40px;
+}
+button{
+  color: black;
+  background-color: yellow;
+}
